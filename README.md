@@ -1,5 +1,5 @@
-## Hello world, I am Cherry Zhang 👋
-* A full stack deneloper, devops engineer :computer:. Have building applications with HTML, CSS, Javascript, Reactjs, Node.js, also experienced with Python, Docker, Gitlab CI, and AWS cloud.*
+### Hello world, I am Cherry Zhang 👋
+*A full stack deneloper, devops engineer :computer:. Have building applications with HTML, CSS, Javascript, Reactjs, Node.js, also experienced with Python, Docker, Gitlab CI, and AWS cloud.*
   <br>
   ___
   
