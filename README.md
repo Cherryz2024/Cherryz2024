@@ -1,4 +1,4 @@
-## Hi there I am Cherry Zhang 👋
+## Hi there, I am Cherry Zhang 👋
 (https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)]
 * A full stack deneloper, devops engineer :computer:. Have building applications with HTML, CSS, Javascript, Reactjs, Node.js, also experienced with Python, Docker, Gitlab CI, and AWS cloud.*
   <br>
@@ -9,8 +9,8 @@
 	<a href="https://github.com/Cherryz2024"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/chao-cherry-zhang/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br>
-___
+ <br>
+  ___
 
 ### My skills 
 ####Programming Languages:
@@ -60,7 +60,7 @@ ___
 
 <br> 
 
----
+
 
 
 
